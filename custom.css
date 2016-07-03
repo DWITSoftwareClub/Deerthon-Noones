@@ -1,0 +1,9 @@
+label {
+  width: 110px;
+  height: 30px;
+  text-align: left;
+}​
+label, input {
+    display: inline-block;
+}
+	form  { display: table;      }
